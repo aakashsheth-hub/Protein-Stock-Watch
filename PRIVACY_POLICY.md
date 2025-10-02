@@ -66,7 +66,7 @@ We may update this policy for accuracy, feature changes, or legal compliance. Th
 
 ## 14. Contact
 For privacy questions or feedback:
-- **Email:** support@yourdomain.com  
+- **Email:** aakashsheth@outlook.com  
 (Replace with your actual support email before publishing.)
 
 ## 15. Trademark Disclaimer
@@ -79,3 +79,4 @@ By using the App, you acknowledge this policy and agree not to misuse the applic
 **No Data Collected. No Tracking. Local Only.**
 
 If you introduce remote APIs or analytics later, add a new section detailing: data categories, purpose, retention, user opt-out, and update your Play Store Data Safety form accordingly.
+
